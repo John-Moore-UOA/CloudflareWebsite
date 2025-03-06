@@ -1,5 +1,5 @@
 {
-  "name": "worker-sites-template",
+  "name": "cloudflare_website",
   "version": "0.0.0",
   "devDependencies": {
     "@cloudflare/kv-asset-handler": "^0.2.0",

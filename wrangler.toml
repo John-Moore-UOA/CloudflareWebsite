@@ -1,4 +1,4 @@
-name = "worker-sites-template"
+name = "cloudflare_website"
 main = "src/index.js"
 compatibility_date = "2022-05-06"
 
